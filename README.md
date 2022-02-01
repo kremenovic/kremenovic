@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stefan Kremenovic, front-end developer.
-- 🌱 I’m currently learning JavaScript & React JS.
+- 🌱 I’m currently learning React JS.
 - 📫 You can reach me at stefan@kremenovic.com
 - 🌐 My portfolio www.kremenovic.com
 
