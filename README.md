@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React and NodeJS**
 
-- 👨‍💻 All of my projects are available at [kremenovic.com](kremenovic.com)
+- 👨‍💻 All of my projects are available at [kremenovic.com](kremenovic.com) and on [github.com](https://github.com/kremenovic/)
 
 - 📫 How to reach me **stefan@kremenovic.com**
 
