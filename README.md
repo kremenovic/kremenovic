@@ -1,6 +1,7 @@
 <h1 align="center">Hello 👋, welcome to Stefan Kremenovic's profile</h1>
 <h3 align="center">Frontend developer from Europe</h3>
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/bWPag2g.gif">
+
+<p><img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=kremenovic&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kremenovic" /></p>
 
 - 🌱 I’m currently learning **React and NodeJS**
 
@@ -13,9 +14,6 @@
 <br>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kremenovic&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kremenovic" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kremenovic&show_icons=true&locale=en&theme=tokyonight" alt="kremenovic" /></p>
 
 <!---
 kremenovic/kremenovic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
